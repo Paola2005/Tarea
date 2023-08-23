@@ -173,9 +173,7 @@ Cualquier otra información que se considere relevante para los usuarios de los 
 
 ------
 
-
-
-3. Cuales son las maneras de realizar input y output en js.
+## 3. Maneras de realizar input y output en js 
 
 
 
