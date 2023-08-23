@@ -210,7 +210,9 @@ Cualquier otra información que se considere relevante para los usuarios de los 
 
 
 
-# 4. Que es el DOM en js
+## 4. Que es el DOM en js 
+
+
 
 Las siglas **DOM** significan **Document Object Model**, o lo que es lo mismo, la estructura del documento HTML. Una página HTML está formada por múltiples etiquetas HTML, anidadas una dentro de otra, formando un árbol de etiquetas relacionadas entre sí, que se denomina **árbol DOM** 
 
