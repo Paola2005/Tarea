@@ -6,71 +6,76 @@
 
 
 
-- [ ] ## Nombre del Proyecto
+## Nombre del Proyecto
 
 Describe el nombre y la breve descripción del proyecto.
 
-- [ ] ### Descripción
+### Descripción
 
 
 Proporciona una descripción más detallada de lo que hace el proyecto y qué problemas resuelve.
 
-- [ ] ### Requisitos Previos
+### Requisitos Previos
 
 
 Enumera cualquier requisito previo que un usuario pueda necesitar antes de usar los endpoints. Esto podría incluir versiones específicas de software, configuraciones, tokens de acceso, etc.
 
-- [ ] ## Instalación
+## Instalación
 
 
 Proporciona instrucciones paso a paso sobre cómo instalar y configurar tu proyecto. Esto podría incluir cómo descargar el código fuente, instalar dependencias y cualquier otra configuración necesaria.
 
-- [ ] ## Uso
+## Uso
 
 
 Explica cómo utilizar los endpoints de tu proyecto.
 
-- [ ] ### Endpoint 1
+### Endpoint 1
 
 
 - **Descripción**: Describe brevemente lo que hace este endpoint.
+
 - **URL**: Proporciona la URL completa para acceder a este endpoint.
+
 - **Método HTTP**: GET, POST, PUT, DELETE, etc.
+
 - **Parámetros**: Enumera los parámetros aceptados por este endpoint, si los hay.
+
 - **Ejemplo de Solicitud**: Proporciona un ejemplo de cómo hacer una solicitud a este endpoint.
+
 - **Ejemplo de Respuesta**: Proporciona un ejemplo de cómo se verá la respuesta del endpoint.
 
-- [ ] ### Endpoint 2
+  ### Endpoint 2
 
 
 (Repite la misma estructura que para el primer endpoint, si hay más de uno).
 
-- [ ] ## Contribución
+## Contribución
 
 
 Si se permiten contribuciones en el proyecto, proporcionar instrucciones sobre cómo los otros desarrolladores pueden contribuir.
 
-- [ ] ## Soporte
+## Soporte
 
 
 Proporciona información de contacto, como un correo electrónico o un enlace a un sistema de seguimiento de problemas, donde los usuarios puedan obtener ayuda o reportar problemas.
 
-- [ ] ## Licencia
+## Licencia
 
 
 Especifica la licencia bajo la cual se distribuye tu proyecto. Esto es importante para establecer cómo otros pueden usar el código.
 
-- [ ] ## Créditos
+## Créditos
 
 
 Si se han utilizado bibliotecas, recursos o inspiración de otros proyectos, menciónarlos aquí y proporcionar enlaces a los repositorios correspondientes.
 
-- [ ] ## Agradecimientos
+## Agradecimientos
 
 
 Si hay personas o equipos que han contribuido significativamente en el proyecto, agradecer aquí.
 
-- [ ] ## Notas Adicionales
+## Notas Adicionales
 
 
 Cualquier otra información que se considere relevante para los usuarios de los endpoints.

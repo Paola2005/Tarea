@@ -1,0 +1,33 @@
+<!--la estructura del documento HTML. Una página HTML está formada por 
+    múltiples etiquetas HTML, anidadas una dentro de otra, formando un árbol 
+    de etiquetas relacionadas entre sí, que se denomina árbol DOM-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom</title>
+</head>
+<body>
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <title>Ejemplo DOM</title>
+    </head>
+    <body>
+      <ul id="miLista">
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+      </ul>
+    
+      <script>
+        var nuevoElemento = document.createElement("li");
+        nuevoElemento.textContent = "Elemento 3";
+        document.getElementById("miLista").appendChild(nuevoElemento);
+      </script>
+    </body>
+    </html>
+     
+</body>
+</html>
